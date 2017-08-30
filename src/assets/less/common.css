@@ -1,0 +1,25 @@
+/*公共的less样式
+包括主题色 按钮
+@ 引入
+*/
+.curPointer {
+  cursor: pointer;
+}
+.themeColor {
+  color: #27cc9f;
+}
+.themeColorBg {
+  background: #27cc9f;
+}
+.button-default {
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  background: #27cc9f;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
